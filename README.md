@@ -1,7 +1,8 @@
 # BMI Calculator 
 
 ##Overview of the app
-![1](https://user-images.githubusercontent.com/90050699/176993035-e859b3d2-34fe-4826-bbd4-8e65ea1609a4.jpeg)
+
+>![1](https://user-images.githubusercontent.com/90050699/176993035-e859b3d2-34fe-4826-bbd4-8e65ea1609a4.jpeg)
 ##a2
 ![2](https://user-images.githubusercontent.com/90050699/176993039-cbfed310-6235-4b0a-ba7a-2a818620c033.jpeg)
 ##a3
